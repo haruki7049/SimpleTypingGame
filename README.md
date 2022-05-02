@@ -1,1 +1,4 @@
 # SimpleTypingGame
+Using Python
+
+# Detail
